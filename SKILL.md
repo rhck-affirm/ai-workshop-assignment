@@ -9,7 +9,7 @@ description: >-
   "overstatement analysis", or "check income drift".
 ---
 
-# Self-Reported vs Bureau Income Monitor (UK)
+# Self-Reported vs Bureau Income Monitor
 
 Compares self-reported income against Experian bureau income on UK POS
 underwriting decisions, to quantify over/under-statement at a glance.
